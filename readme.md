@@ -1,5 +1,9 @@
 # __PlugBase__  <_alpha1.0.0_>
-### web3.0へ向けて
+### 概要
+>これはnode.jsで動くモジュールみたいなもんです。
+>自分用のDataBaseです
+>メモとしてreadme.mdを書いてます
+>
 
 ## 使い方
 plugBaseモジュールを使います
